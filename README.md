@@ -58,3 +58,15 @@ Cookie还可以存储网站的一些设置，例如，页面显示的语言等�
 REST (Representational State Transfer) refers to a group of **software architecture design constraints/style** that bring about efficient, reliable and scalable distributed systems.
 
 The basic idea of REST is that a resource, e.g. a document, is transferred via well-recognized, language-agnostic, and reliably standardized client/server interactions. Services are deemed RESTful when they adhere to these constraints.
+
+## [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+
+MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software’s business logic and display.
+
+The three parts of the MVC software-design pattern can be described as follows:
+
++ Model: Manages data and business logic.
++ View: Handles layout and display.
++ Controller: Routes commands to the model and view parts.
+
+## JavaScript
