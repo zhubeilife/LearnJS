@@ -4,6 +4,8 @@
 
 https://docs.microsoft.com/en-us/learn/modules/build-simple-website/
 
+## [廖雪峰JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
+
 ## [What Is a URL](./WhatIsAURL.md)
 
 ## [HTTP](https://developer.mozilla.org/en-US/docs/Glossary/HTTP)
@@ -69,4 +71,14 @@ The three parts of the MVC software-design pattern can be described as follows:
 + View: Handles layout and display.
 + Controller: Routes commands to the model and view parts.
 
+## [Asynchronous JavaScript](./AsynchronousJavaScript.md)
+
 ## JavaScript
+
++ 这是因为在生产环境下，静态文件是由部署在最前面的反向代理服务器（如Nginx）处理的
+
+## TODO
+
++ React
+
++ graphql
