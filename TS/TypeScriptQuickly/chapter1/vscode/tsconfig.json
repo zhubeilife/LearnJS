@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "outDir": "./dist",
+        "noEmitOnError": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ]
+    }
+}

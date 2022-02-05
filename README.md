@@ -25,7 +25,6 @@ When a client wants to communicate with a server, either the final server or an 
     GET / HTTP/1.1
     Host: developer.mozilla.org
     Accept-Language: fr
-    Copy to Clipboard
     ```
 
 + Read the response sent by the server, such as:
@@ -73,12 +72,4 @@ The three parts of the MVC software-design pattern can be described as follows:
 
 ## [Asynchronous JavaScript](./AsynchronousJavaScript.md)
 
-## JavaScript
-
-+ 这是因为在生产环境下，静态文件是由部署在最前面的反向代理服务器（如Nginx）处理的
-
-## TODO
-
-+ React
-
-+ graphql
+## [GraphQL](https://www.howtographql.com/)
